@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Image One",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-one.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Image Two",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-two.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Image Three",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-three.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Image Four",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-four.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Image Five",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-five.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Image Seven",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-seven.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Image Nine",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-nine.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Image Ten",
+    "img": "https://biswajitadhikary.com/sports-photographer/gallery-ten.jpg"
+  }
+]

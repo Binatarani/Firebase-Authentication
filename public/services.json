@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": " Sporting Events Photography",
+    "price": "300",
+    "description": "I'm the leading sporting event photographer in Bangladesh. I offer quality images and products, on-site printing and great pricing!",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-one.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Live Match Photography",
+    "price": "100",
+    "description": "My live match photography is best in the world. The quality of the photos are just amazing and beautiful and ready to use for your next platform.",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-two.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Team Picture Day Photography",
+    "price": "150",
+    "description": "I offers top quality posed team & individual photography services for any size team and league. You will get best team photos from me.",
+    "img": "https://biswajitadhikary.com/sports-photographer/service-three.jpg"
+  }
+]

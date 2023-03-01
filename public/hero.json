@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "subheading": "SPOTOGRAPHER",
+    "heading": "Sports Photographer",
+    "text": "I Capture Sports Moments and Actions.",
+    "button": "More About Me",
+    "image": "https://sports-photographer-5c512.web.app/static/media/slider-1.6590edc4a5fa74a0ca17.jpg"
+  },
+  {
+    "id": "2",
+    "subheading": "SPOTOGRAPHER",
+    "heading": "Sports Photographer",
+    "text": "I Capture Sports Moments and Actions.",
+    "button": "More About Me",
+    "image": "https://sports-photographer-5c512.web.app/static/media/slider-3.7e32f82128d8eae0bc2f.jpg"
+  },
+  {
+    "id": "3",
+    "subheading": "SPOTOGRAPHER",
+    "heading": "Sports Photographer",
+    "text": "I Capture Sports Moments and Actions.",
+    "button": "More About Me",
+    "image": "https://sports-photographer-5c512.web.app/static/media/slider-2.c77e44d84a3fa5ea807c.jpg"
+  }
+]
